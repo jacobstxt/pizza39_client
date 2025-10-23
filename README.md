@@ -15,7 +15,7 @@
 ## Запуск
 
 ### Клонування репозиторію
-git clone https://github.com/jacobstxt/pizza39-app.git
+git clone https://github.com/jacobstxt/pizza39_client.git
 
 ### Встановлення залежностей
 npm install
@@ -26,7 +26,7 @@ npm run dev
 ### Технології
 - **Фронтенд:** React + TypeScript, Vite, CSS Modules / Styled Components  
 - **Контроль версій:** Git, GitHub  
-- **Управління пакетами:** npm (фронтенд)
+- **Управління пакетами:** npm 
 - **Інструменти:** WebStorm
 
 ### Налаштування
